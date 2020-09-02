@@ -1,0 +1,42 @@
+{
+  "streams": [
+    {
+      "title": "Hello World ",
+      "description": "Hello World is the only coding work i know! and it s not coding at all",
+      "id": 1
+    },
+    {
+      "title": "Hello World ",
+      "description": "Hello World is the only coding work i know! and it s not coding at all",
+      "id": 2
+    },
+    {
+      "title": "Hello World ",
+      "description": "Hello World is the only coding work i know! and it s not coding at all",
+      "id": 3
+    },
+    {
+      "title": "New Stream",
+      "description": "This is a user ID",
+      "userId": "115787837934252091166",
+      "id": 4
+    },
+    {
+      "title": "this is try for porgrammatic navigation",
+      "description": "this update is made by PATCH request",
+      "userId": "115787837934252091166",
+      "id": 5
+    },
+    {
+      "title": "this is try for porgrammatic navigation",
+      "description": "Test",
+      "userId": "115787837934252091166",
+      "id": 6
+    },
+    {
+      "title": "Hello New one with the refactor",
+      "description": "This is the refactor of the comonent reuse",
+      "id": 7
+    }
+  ]
+}
