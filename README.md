@@ -1,4 +1,4 @@
-# Smart Traffic LiDar
+# StreamExpert
 ----------
 ### Author: Divanshu Sharma
 
@@ -10,20 +10,20 @@ StreamExpert is a clone of famous streaming platform called Twitch.tv! This is a
 See the the short videos below as an example of what user can do in this application: 
 ----------
 ### Creating a Stream
-![3d Intersection Demo](/images_gif/create.gif)
+![Create Stream Demo](/streams/images_gif/create.gif)
 
 ### Editing a Stream
-![3d Intersection Demo](/images_gif/edit.gif)
+![Edit Stream Demo](/streams/images_gif/edit.gif)
 
 ### Deleting a Stream
-![3d Intersection Demo](/images_gif/Delete.gif)
+![Delete Stream Demo](/streams/images_gif/Delete.gif)
 
 ### Streaming
-![3d Intersection Demo](/images_gif/Streaming.gif)
+![Streaming Demo](/streams/images_gif/Streaming.gif)
 
 ### Google Sign In
-![3d Intersection Demo](/images_gif/SignIn.gif)
+![Google Sign In Demo](/streams/images_gif/SignIn.gif)
 
 ### Google Sign Out
-![3d Intersection Demo](/images_gif/signout.gif)
+![Google Sign Out Demo](/streams/images_gif/signout.gif)
 
