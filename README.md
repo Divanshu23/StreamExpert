@@ -42,7 +42,7 @@ After downloading the required dependencies, run three seperate servers
 ### Technologies
 ----------
 Important technologies used
-* [Moder JavaScript]
-* [React]
-* [Redux]
-* [CSS]
+* Moder JavaScript
+* React
+* Redux
+* CSS
