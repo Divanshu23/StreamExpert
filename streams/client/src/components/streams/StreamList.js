@@ -2,6 +2,7 @@ import React from 'react';
 import {connect } from 'react-redux';
 import {fetchStreams} from '../../actions';
 import {Link} from 'react-router-dom';
+import '../../CSS/StreamList.css';
 
 
 class StreamList extends React.Component {
